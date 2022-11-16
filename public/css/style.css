@@ -1,0 +1,103 @@
+.table {
+    margin-bottom: 0px !important;
+}
+
+@media (max-width: 767px) {
+
+    .table tr th,
+    .table tr td {
+        width: 50%;
+    }
+
+    .on-small thead {
+        display: none;
+    }
+}
+
+li {
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+i {
+    color: rgb(128, 0, 0);
+    padding-right: 5px;
+}
+
+#details {
+    text-align: center;
+    margin-top: 5px;
+    background-color: rgb(170, 244, 234);
+    margin: 10px;
+
+}
+
+#top {
+    margin-top: 10px;
+    padding: 5px;
+}
+
+h5 {
+    padding-left: 400px;
+    margin-top: 10px;
+
+}
+
+img {
+    border-radius: 20%;
+    margin-top: 40px;
+
+}
+
+.footers {
+    background-color: rgb(0, 255, 242);
+    text-align: center;
+    color: aliceblue;
+}
+
+a {
+    color: rgb(128, 0, 0);
+}
+
+#qualify {
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+p {
+    font-size: medium;
+}
+
+.experience {
+    background-color: rgba(8, 238, 246, 0.686);
+    margin: 10px;
+    color: rgb(239, 8, 8);
+
+}
+
+.process {
+    background-color: rgba(8, 238, 246, 0.686);
+    margin: 10px;
+    color: rgb(239, 8, 8);
+}
+
+.process img {
+    margin-left: 250px;
+}
+
+td {
+    padding: 40px;
+    font-size: large;
+}
+
+.bg {
+
+    padding: 10px;
+    font-size: large;
+    color: black;
+}
+
+#services li {
+    padding-bottom: 10px;
+
+}
